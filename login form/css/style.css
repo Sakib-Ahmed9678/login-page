@@ -1,0 +1,52 @@
+body{
+    background-color: lightblue;
+}
+
+.heading{
+    color: red;
+    margin-bottom:10px ;
+    margin-top: 10px;
+    margin-left:100px;
+}
+
+.gender{
+    margin: 10px;
+}
+
+select{
+    margin: 1px;
+}
+
+.opt{
+    margin: 10px;
+}
+.hobbies{
+    margin: 5px;
+}
+
+.add{
+    margin-left: 180px;
+    color:red;
+}
+.address{
+    height: 200px;
+}
+button{
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-bottom: 10px;
+    width: 100px;
+    border-radius: 50%;
+    color: white;
+    background-image: linear-gradient(to right, tomato, red);
+    border: none;
+    box-shadow: 20px 10px 10px black;
+}
+
+footer{
+    margin-top: 40px;
+}
+p{
+    font-size: x-small;
+    color: lightslategray;
+}
